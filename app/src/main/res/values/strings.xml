@@ -7,6 +7,8 @@
     <string name="ask_btn_title">Do you love me?</string>
     <string name="love_text_frame_descr">Cloud wrapper</string>
 
+    <string-array name="ask_array_personal">
+    </string-array>
     <string-array name="ask_array">
         <item>Of course I do love you.</item>
         <item>Yes-yes-yeeess! Love you, honey!</item>
@@ -24,14 +26,16 @@
         <item>I kinda like you.</item>
         <item>I\'m mad about you!</item>
     </string-array>
+    <string-array name="tell_array_personal">
+        <item>Soft Olya, Warm Minras, Poeskin bal of furrr…</item>
+        <item>Medved! We need a medved!</item>
+        <item>Love me tender, love me sweet, tra-la-lo-lo-lo!11</item>
+    </string-array>
     <string-array name="tell_array">
         <item>Oh, my unicornness! Love ya such much!</item>
         <item>My dear bunny, I love you!</item>
-        <item>Medved! We need a medved!</item>
         <item>Your love is all I need to feel complete.</item>
         <item>Come live in my heart!</item>
-        <item>Love me tender, love me sweet, tra-la-lo-lo-lo!11</item>
-        <!--<item>Soft Olya, Warm Minras, Poeskin bal of furrr…</item>-->
         <item>Purr-purr-purr-purr-purr…</item>
         <item>I am happiest when I’m right next to you.</item>
         <item>I will love you until the stars go out, and the tides no longer turn.</item>
